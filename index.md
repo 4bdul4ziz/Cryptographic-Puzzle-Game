@@ -11,6 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![img](https://images.saymedia-content.com/.image/t_share/MTc0NDczMjkyMjYwOTEwNzI2/puzzling-the-internet-the-mystery-of-cicada-3301.jpg)
+
 ```markdown
 Syntax highlighted code block
 
