@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://images.saymedia-content.com/.image/t_share/MTc0NDczMjkyMjYwOTEwNzI2/puzzling-the-internet-the-mystery-of-cicada-3301.jpg](src)
+[Link](url) and ![img](https://images.saymedia-content.com/.image/t_share/MTc0NDczMjkyMjYwOTEwNzI2/puzzling-the-internet-the-mystery-of-cicada-3301.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
