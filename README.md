@@ -9,4 +9,14 @@ The main goal that was intended to be achieved in this project was to give whoev
 # Tech Stacks / Softwares Used / Materials Used
 We have used quite a handful of tools and tech stacks to make this possible, we used the python programming language to code out the core of this project wherein we used Microsoft's Visual Studio Code, Visual Studio and JetBrains Pycharm Professional and then the JetBrains WebStorm to create a part of the challenge website (the final level :D), used GitHUb pages to host the domain, sonic visualizer to visualize the diagram and coagula for creating the spectrogram where we embedded the solution. ASCII cypher for encoding the mysteries, discord for team coordination, a huge chunck of our time and some double extras on caffeine :).
 
-*will be updated shortly.
+# Team Members
+Coming together is always the beginning, in this team we have me,
+### Abdul Aziz
+A freshman year student from VIT-C, currently enrolled in their CSE with spl. in AI & Robotics course. I've no interests personally, things have been neutral around me. Little to say, I like ramen and coffee. And maybe, play some fortnite once in a while? The future constantly iterates on the actions you take every second. Stay put as much as you can and be the one that could steer this change in a positive direction. That's all I could say? And yeah, you're always breathtaking! <3
+
+### Nimish Kashyap
+Hello, I am Nimish Kashyap, a fresher at VIT-Chennai currently enrolled in CSE-AI/Robotics. I am very interested in mystery, cryptography and all those stuff, with a great interest in the field of web development and software development in general. Looking forward in meeting new people and learn something new everyday.
+
+### Samik Saraswat
+
+### Kavya
