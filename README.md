@@ -22,3 +22,26 @@ Hi, I'm Samik Saraswat, a fresher student at VIT Chennai university pursuing CSE
 
 ### _Kavya_
 Hello I am Kavya Paliwal, a fresher at VIT Chennai currently pursuing CSE AI/Robotics. I have a keen interested in cybersecurity. I like painting and editing. Love making new friends and looking forward to meet some amazing minds.
+
+# Project Description / Working / Layout / Intentions
+## Educational Cryptographic Puzzle (Rudimentary)
+
+So, you may wonder this is just a puzzle to be solved and that's it. Well, you're not entirely wrong. This is indeed a puzzle that should be solved and that's it (other than the cool fractal flower pattern at the end-credits that I spent a considerable amount of time on ;-;). We have collectively put up some Ciphered phrases and texts and hid the solutions in the not _so obvious_ places where people would think they're smart and try up some fancy ways on solving it. But, trust me it's literally the opposite of that, you should rather be looking on the most stupidest things that could be the answer on.
+
+We made it such and such that students who play for literally their first time would have some basic conceptual idea on how a crypto hunting game would look like, well ofcourse it's quite delirious in the real world. And also, an honourable mention to the Cicada 3301 which brought in the basic conceptuals behind this, we weren't able to solve the then famous _cicada 3310_ and quite obstructively sucked at solving cryptopuzzles at high-school. Which woulda been changed (I think?) if we had a conceptual idea about the mystery solving problems. Since, we didn't recieve any such fancy custom made cryptographic problems, we decided to help the future gens. out there by compremending a problem that is relatively approachable by them and would have little to none problems in solving them. 
+
+And reward them at the end with a beautifully made fractal floral pattern that would assert their sense of dominance over the program. And proudly take snapshots to post on their socials if we were to blow up that is. 
+
+## Working
+We used VSC and Pycharm Professional to code out the logic of this program, we used the turtle module to draw the fractals on a seperate graphical window right after you solve the puzzle. Then used WebStorm and GitHub pages to host up the final level that required some web hostings to download _certain_ stuff for the final challenge. We used sonic visualisers for the visual apprentice of the waveforms and Coagula for drawing out the waveforms manually over the plane of action which is later converted into a wav audio file and is used on the Web-Page. We used ASCII and other forms of Ciphertexts to encode the message hints, and hid them in the most obvious of places while making it. 
+
+## Layout
+We followed a bottom-top approach and created the loops with the main branch with function calls interceding the previous branches to somehow manually cooperate with a reduced time complexity. As for the fractals, the time delay is increased in order to get a satisfactory time on watching the whole thing unfold itself to it's fullest glory! 
+However, this layout is pretty comprehensive cause it has been helpful for us by getting in more simpler statements of code. 
+
+## Intentions
+This program is meant and is intended for the use by students and any learners in general that want's to check out cryptographic puzzle hunting. This program snippet is entirely copyrighted by VIT Freshers, class of 2024. For any re-distributions / using of our code in any projects is entirely accepted with a credit line. And lastly, thanks to our dedicated efforts onto coming up with an idea at 1.30am in the morning about puzzle hunting! :D
+This project is ideally meant for the DevSpace Hackathon of CSI-VIT. Code republications are subject to our permissions. 
+
+# Conclusions
+This'll be all our entry notes. To get a more understanding on the levels of this project, check out the hint(s) file where there'd be a readme.md to walk you through the levels, giving you a brief idea on it. 
