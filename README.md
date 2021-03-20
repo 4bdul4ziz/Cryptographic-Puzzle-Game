@@ -11,12 +11,12 @@ We have used quite a handful of tools and tech stacks to make this possible, we 
 
 # Team Members
 Coming together is always the beginning, in this team we have me,
-### Abdul Aziz
+### _Abdul Aziz_
 A freshman year student from VIT-C, currently enrolled in their CSE with spl. in AI & Robotics course. I've no interests personally, things have been neutral around me. Little to say, I like ramen and coffee. And maybe, play some fortnite once in a while? The future constantly iterates on the actions you take every second. Stay put as much as you can and be the one that could steer this change in a positive direction. That's all I could say? And yeah, you're always breathtaking! <3
 
-### Nimish Kashyap
+### _Nimish Kashyap_
 Hello, I am Nimish Kashyap, a fresher at VIT-Chennai currently enrolled in CSE-AI/Robotics. I am very interested in mystery, cryptography and all those stuff, with a great interest in the field of web development and software development in general. Looking forward in meeting new people and learn something new everyday.
 
-### Samik Saraswat
+### _Samik Saraswat_
 
-### Kavya
+### _Kavya_
