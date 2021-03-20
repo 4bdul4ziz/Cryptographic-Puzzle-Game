@@ -21,3 +21,4 @@ Hello, I am Nimish Kashyap, a fresher at VIT-Chennai currently enrolled in CSE-A
 Hi, I'm Samik Saraswat, a fresher student at VIT Chennai university pursuing CSE- AI/R currently. My interests are gaming, mathematics, debugging and mostly watching Netflix series and animes. Even though I may be a master procrastinator, I like experimenting with things and exploring new fields for exposure and to improve my skill set and be a contributing person to this modern society[or at-least try my best to be one :p]. I love making new friends and working along with them, cherishing the memories we create and things we experience as a whole, marking them down as milestones of happiness. :D
 
 ### _Kavya_
+Hello I am Kavya Paliwal, a fresher at VIT Chennai currently pursuing CSE AI/Robotics. I have a keen interested in cybersecurity. I like painting and editing. Love making new friends and looking forward to meet some amazing minds.
