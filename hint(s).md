@@ -12,7 +12,7 @@ A welcome note with a phishy tone that’ll ignite the adventure. It is a puzzle
 Following the poets name to Wikipedia, append Born year, death year and age and add 5294213560 will lead to a number, enter the number to pass lvl 2.
 
 ## Level 3
-There will be the github website link displayed in the console. After following the link, there will be an audio file that has to be downloaded and opened by a program like sonic visualizer in spectrogram mode. The spectrogram contain youtube link to the cicada3301. Hence final task is completed.
+There will be the github website link displayed in the console. After following the link, there will be an audio file that has to be downloaded and opened by a program like sonic visualizer in spectrogram mode. The spectrogram contain youtube link to the cicada3301. Enter the upload year. Hence final task is completed.
 
 ## Outro
 Final congratulations to all who passed all the levels. And the program will stop after pressing return, starts the fractal flower program to feast the winners eyes. 
