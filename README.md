@@ -40,7 +40,7 @@ We followed a bottom-top approach and created the loops with the main branch wit
 However, this layout is pretty comprehensive cause it has been helpful for us by getting in more simpler statements of code. 
 
 ## Intentions
-This program is meant and is intended for the use by students and any learners in general that want's to check out cryptographic puzzle hunting. This program snippet is entirely copyrighted by VIT Freshers, class of 2024. For any re-distributions / using of our code in any projects is entirely accepted with a credit line. And lastly, thanks to our dedicated efforts onto coming up with an idea at 1.30am in the morning about puzzle hunting! :D
+This program is meant and is intended for the use by students and any learners in general that wants to check out cryptographic puzzle hunting. This program snippet is entirely copyrighted by VIT Freshers, class of 2024. For any re-distributions / using of our code in any projects is entirely accepted with a credit line. And lastly, thanks to our dedicated efforts onto coming up with an idea at 1.30am in the morning about puzzle hunting! :D
 This project is ideally meant for the DevSpace Hackathon of CSI-VIT. Code republications are subject to our permissions. 
 
 # Conclusions
